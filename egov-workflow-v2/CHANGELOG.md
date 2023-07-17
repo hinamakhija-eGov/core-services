@@ -3,6 +3,14 @@
 # Changelog
 All notable changes to this module will be documented in this file.
 
+## 1.1.4 2021-03-17
+- Bug fix for rate action validation
+
+## 1.1.3 2021-02-26
+- Updated domain name in application.properties
+- Added rating field in processInstance
+- Added uuid validation on assignes in case of CITIZEN
+
 ## 1.1.2 2021-01-11
 - Query Optimization
 - Caching
